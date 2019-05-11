@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face
+{
+    font-family: newfont;
+    src:url(GILSANUB.TTF);
+}
+
+@font-face
+{
+    font-family: newfont2;
+    src:url(SHOWG.TTF);
+}
+
+header
+{
+    height: 130px;
+    background-color: aliceblue;
+}
+
+header img
+{
+    margin-left: 10px;
+}
+
+body
+{
+    background-color: rgba(199, 5, 47, 0.925);
+}
+
+nav
+{
+    background-color: black;
+}
+
+nav ul .gnr
+{
+    background-color: white;
+    display: inline-block;
+    border: 2px black ridge;
+    margin-bottom: 10px;
+}
+
+nav ul .gnr .tp
+{   
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav ul .gnr ul li a
+{
+    padding: 3px 3px;
+    text-decoration: none;
+    list-style: none;
+    color:black;
+}
+
+nav ul .gnr ul
+{
+    text-decoration: none;
+    list-style: none;
+}
+
+nav ul .gnr ul li
+{
+    display: none;
+}
+
+nav ul .gnr:hover
+{
+    position: fixed;
+    background-color: bisque;
+}
+
+nav ul .gnr:hover ul li
+{
+    display: block;
+    border: 1px black solid;
+}
+
+nav ul .gnr ul li:hover
+{
+    background-color: white;
+}
+
+#img
+{
+    margin-top: 20px;
+    margin-left: 452px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 428px;
+}
+
+#bd
+{
+    padding: 10px 10px;
+    margin: 50px;
+    margin-top:20px;
+    background-color: rgba(255, 241, 159, 0.884);
+    width:90%;
+    border: 3px black solid;
+}
+
+#bd h2
+{
+    text-decoration: underline;
+}
+
+#bd h3
+{
+    text-decoration: underline;
+}
+
+#bd p
+{
+    font-family: Georgia, serif;
+}
+
+footer
+{
+    height:10px;
+}
+
+footer p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#bd #video iframe{
+    margin-left:300px;
+}
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #c20f0f;
+    border: none;
+    color: rgb(214, 244, 247);
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }

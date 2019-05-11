@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" href="secpage.css">
+        </head>
+        <header>
+            <img src="gmshore.jpg">
+            <nav>
+                    <ul>
+                        <li class="gnr"><a href="#" class="tp">Action</a>
+                            <ul>
+                                <li><a href="#">GTA V</a></li>
+                                <li><a href="#">Assassins's Creed</a></li>
+                                <li><a href="#">Call of Duty</a></li>
+                                <li><a href="#">Bio hazard 4</a></li>
+                            </ul>
+                        </li>
+                        <li class="gnr"><a href="#" class="tp">Adventure</a>
+                            <ul>
+                                    <li><a href="#">Uncharted 4</a></li>
+                                    <li><a href="#">Life is Strange</a></li>
+                                    <li><a href="#">Kong: The Skull Island</a></li>
+                                    <li><a href="#">Firewatch</a></li>
+                            </ul>
+                        </li>
+                        <li class="gnr"><a href="#" class="tp">Arcade</a>
+                            <ul>
+                                <li><a href="#">Pac-man</a></li>
+                                <li><a href="#">Galaga</a></li>
+                                <li><a href="#">Space Invader</a></li>
+                                <li><a href="#">Super Mario</a></li>
+                            </ul>
+                        </li>
+                        <li class="gnr"><a href="#" class="tp">Racing</a>
+                            <ul>
+                                <li><a href="#">NFS PayBack</a></li>
+                                <li><a href="#">Crew 2</a></li>
+                                <li><a href="#">Blur</a></li>
+                                <li><a href="#">Asphalt 8: Airborne</a></li> 
+                            </ul>
+                        </li>
+                        <li class="gnr"><a href="#" class="tp">Flash Games</a>
+                            <ul>
+                                <li><a href="#">Starship VII</a></li>
+                                <li><a href="#">ZED</a></li>
+                                <li><a href="#">Dare Dozen</a></li>
+                                <li><a href="#">nPower Test Series</a></li>
+                            </ul>
+                        </li>
+                        <li class="gnr"><a href="gmshore.html" class="tp">Home</a></li>
+                    </ul>
+            </nav>
+        </header>
+
+        <body>
+        <div id="bd">
+            <img id="img" src="awo.jpg" alt="A Way Out">
+            <h2>A Way Out</h2><br>
+            <h3>Overview</h3><br>
+            <p></p><br>
+               
+            <p></p><br><br>
+            <h3> Description</h3><br>
+            <p></p><br>
+
+            <p></p><br>
+                    
+            <p></p><br>
+                    
+            <p></p><br><br>
+            <h3>System Requirements</h3><br>
+            
+            <p>Before you start downloading A Way Out make sure your PC meets minimum system requirements.</p><br>
+
+                    <p>Minimum System Requirements</p><br>
+                    
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    
+                    <p>Recommended System Requirements</p><br>
+                    
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br>
+                    <p></p><br><br>
+            <h3>Download Link</h3><br>
+            <p>Password- www.newgamebox.net</p><br>
+                <a href="http://www.linkoops.com/wwoBX">
+                CLICK HERE
+                </a>
+        </div>
+        </body>
+        
+        <footer>
+            <marquee scrollamount="10"><p>*All games here are product of their respective owners. This site is solely meant for downloading games and doesn't have contact with any of the game developers. Our site doesn't hold any responsibility for issues related to games.</p></marquee>
+        </footer>
+</html>
